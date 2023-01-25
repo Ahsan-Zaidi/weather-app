@@ -1,12 +1,13 @@
 import hotBg from './assets/hot.jpg';
 import coldBg from './assets/cold.jpg';
+import Descriptions from './components/Descriptions';
 
 function App() {
   return (
     <div className="App" style={{backgroundImage: `url(${coldBg})`}}>
       <div className='overlay'>
         <div className='container'>
-          
+
           <div className='section section__inputs'>
             <input type='text' name='city' placeholder='Enter City...' />
             <button>°F</button>
@@ -24,6 +25,7 @@ function App() {
           </div>
 
           {/* BOTTOM DESCRTIPTION */}
+          <Descriptions />
         </div>
       </div>     
     </div>
