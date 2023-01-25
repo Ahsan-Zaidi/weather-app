@@ -6,6 +6,7 @@ function App() {
     <div className="App" style={{backgroundImage: `url(${coldBg})`}}>
       <div className='overlay'>
         <div className='container'>
+          
           <div className='section section__inputs'>
             <input type='text' name='city' placeholder='Enter City...' />
             <button>°F</button>
@@ -21,6 +22,8 @@ function App() {
               <h1>35 °C</h1>
             </div>
           </div>
+
+          {/* BOTTOM DESCRTIPTION */}
         </div>
       </div>     
     </div>
