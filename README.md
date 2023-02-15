@@ -43,7 +43,8 @@ you can run this application by installing the zip and running "npm start"
 
 ## 👨‍💻Technologies Used
 
-REACT
+REACT, 
+JavaScript, 
 Server side API
 
 ## 💾Installation
