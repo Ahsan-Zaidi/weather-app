@@ -14,9 +14,7 @@
 
 ## Description
 
-🔍Being a web developer means being part of a community. You’ll need a place to share your projects not only if you're applying for jobs or working as a freelancer but also so that you can share your work with fellow developers and collaborate on future projects.
-
-I have created a weather application that allows the user to check weather details in any city they choose. The purpose of this app is to keep our users prepared for any weather conditions they might face.
+🔍I've developed a weather application that enables users to access weather information for their selected cities. The primary aim of this app is to help our users stay informed about various weather conditions they may encounter.
 
 ✋ [GitHub Repository] https://github.com/Ahsan-Zaidi/weather-app
 
