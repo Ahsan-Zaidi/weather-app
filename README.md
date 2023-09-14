@@ -20,7 +20,7 @@ I have created a weather application that allows the user to check weather detai
 
 ✋ [GitHub Repository] https://github.com/Ahsan-Zaidi/weather-app
 
-✋ [Deployed App] 
+✋ [Deployed App] https://ahsan-zaidi.github.io/weather-app/
 
 ## ✋User Story
 
